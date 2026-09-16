@@ -13,8 +13,8 @@
     "release-beta": "npx release-it prerelease --no-git --verbose --preReleaseId='beta'"
   },
   "devDependencies": {
-    "@release-it/bumper": "^4.0.2",
-    "release-it": "^15.6.0",
+    "@release-it/bumper": "^8.0.1",
+    "release-it": "^21.0.3",
     "typescript": "^4.9.5"
   },
   "dependencies": {
